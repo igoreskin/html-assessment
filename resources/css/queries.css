@@ -1,9 +1,37 @@
 @media only screen and (max-width: 1525px) {
+  .picture {
+    margin-bottom: 65px;
+  }
 
+  .long-copy {
+    font-size: 145%;
+  }
+
+  h1 {
+    font-size: 240%;
+  }
+
+  h3 {
+    font-size: 140%;
+  }
 }
 
 @media only screen and (max-width: 1280px) {
+  .picture {
+    margin-bottom: 55px;
+  }
+
+  .long-copy {
+    font-size: 135%;
+  }
   
+  h1 {
+    font-size: 230%;
+  }
+
+  h3 {
+    font-size: 130%;
+  }
 }
 
 @media only screen and (max-width: 1024px) {
